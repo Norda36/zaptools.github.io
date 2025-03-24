@@ -1,0 +1,76 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Privacy Policy for ZapTools</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            line-height: 1.6;
+            max-width: 800px;
+            margin: 0 auto;
+            padding: 20px;
+            color: #333;
+        }
+        h1 {
+            color: #2c3e50;
+            border-bottom: 1px solid #eee;
+            padding-bottom: 10px;
+        }
+        h2 {
+            color: #3498db;
+            margin-top: 25px;
+        }
+        ul {
+            padding-left: 25px;
+        }
+        p, li {
+            margin-bottom: 15px;
+        }
+        .updated-date {
+            font-style: italic;
+            color: #7f8c8d;
+        }
+    </style>
+</head>
+<body>
+    <h1>Privacy Policy for ZapTools</h1>
+    <p class="updated-date"><strong>Last updated:</strong> March 24, 2025</p>
+
+    <h2>Introduction</h2>
+    <p>Welcome to ZapTools. We respect your privacy and are committed to protecting your personal data. This privacy policy will inform you about how we look after your personal data when you use our application and tell you about your privacy rights.</p>
+
+    <h2>The Data We Collect</h2>
+    <p>Our app <strong>does not collect any personal data</strong> from users. We don't require you to create an account, and we don't track your activity within the app.</p>
+
+    <h2>Device Permissions</h2>
+    <p>Our app may request the following permissions:</p>
+    <ul>
+        <li>Storage access: To save and access files related to the app's functionality</li>
+    </ul>
+    <p>These permissions are only used for the core functionality of the app and not for collecting or transmitting your personal information.</p>
+
+    <h2>Advertising</h2>
+    <p>Our app displays advertisements provided by third-party ad networks. These ad providers may use cookies, device identifiers, or similar technologies to collect information about your app usage and device to show you relevant ads. The information collected may include:</p>
+    <ul>
+        <li>Device information (model, operating system)</li>
+        <li>IP address</li>
+        <li>General location information (country or city level)</li>
+        <li>Ad interaction data</li>
+    </ul>
+    <p>We do not share your personal information with advertisers. For more information about how ad networks collect and use your data, please refer to their respective privacy policies.</p>
+
+    <h2>Children's Privacy</h2>
+    <p>Our app does not knowingly collect personal information from children under 13.</p>
+
+    <h2>Changes to This Privacy Policy</h2>
+    <p>We may update our Privacy Policy from time to time. We will notify you of any changes by posting the new Privacy Policy on this page and updating the "Last updated" date.</p>
+
+    <h2>Contact Us</h2>
+    <p>If you have any questions about this Privacy Policy, please contact us at:</p>
+    <ul>
+        <li>Email: support@zaptools.info</li>
+    </ul>
+</body>
+</html>
